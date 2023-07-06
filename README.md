@@ -34,5 +34,3 @@ Exercise 15: chown -h betty:holberton _hello Changes the owner and group owner o
 Exercise 16: chown --from=guillaume betty hello Change owner of the file hello to betty only if it is currently owned by guillaume
 
 Exercise 17: telnet towel.blinkenlights.nl Play the Star Wars IV episode in the terminal. This is a premade script provided online.
-
-Exercise 18: Create a manual that looks as provided
