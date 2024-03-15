@@ -7,9 +7,8 @@ server {
     location /redirect_me {
         return 301 https://www.github.com/balchabe;
     }
-    root /var/www/html;
 
-    server_name _;
+    server_name 54.237.118.58;
 
     location /airbnb-onepage {
         proxy_pass http://0.0.0.0:5000/airbnb-onepage;
